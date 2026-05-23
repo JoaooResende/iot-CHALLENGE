@@ -1,0 +1,13 @@
+# Binários compilados pelo Arduino IDE
+build/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# VS Code — ignora tudo exceto a config do Arduino
+.vscode/*
+!.vscode/arduino.json
+
+# Arquivos temporários do Arduino IDE
+*.bak
