@@ -3,7 +3,7 @@
 > **Alimentador automático inteligente para pets** — Protótipo IoT desenvolvido com ESP32, dashboard web embarcado e monitoramento em tempo real de temperatura, umidade e nível de ração.
 
 📄 **[Ver documentação completa](docs/index.html)**
-
+LINK DO VIDEO https://youtu.be/u72wM5YJbO0
 ---
 
 ## O Problema
